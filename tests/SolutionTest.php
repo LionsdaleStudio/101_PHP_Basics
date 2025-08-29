@@ -7,4 +7,9 @@ class SolutionTest extends TestCase {
         $sol = new Solution();
         $this->assertEquals(4, $sol->sum(2, 2));
     }
+
+    public function testSub() {
+        $sol = new Solution();
+        $this->assertEquals(8, $sol->substract(10, 2));
+    }
 }
