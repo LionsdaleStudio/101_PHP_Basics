@@ -12,7 +12,7 @@ Bevezetés a PHP nyelvbe!
 
 **vendor/bin/phpunit**
 
-4 - Ugyanezek a tesztek fognak lefutni akkor is, ha feltöltöd a megoldásaidat a Github Classroom Repository-ba, így csak akkor töltsd fel őket, ha már lokálisan, a te gépeden is hibátlan eredményt kaptál, vagy ha már kipróbáltál mindent és nem tudod megoldani a hibás feladatokat. **Csak az első leadott munkát fogjuk értékelni, többszörös leadás esetében a munkádat figyelmen kívül fogjuk hagyni.**
+4 - Ugyanezek a tesztek fognak lefutni akkor is, ha feltöltöd a megoldásaidat a Github Classroom Repository-ba, így csak akkor töltsd fel őket, ha már lokálisan, a te gépeden is hibátlan eredményt kaptál, vagy ha már kipróbáltál mindent és nem tudod megoldani a hibás feladatokat. **Csak az első leadott munkát fogjuk értékelni, többszörös leadás (commit és push) esetében a munkádat figyelmen kívül fogjuk hagyni.**
 
 5 - **Csak a Solution.php fájlban kell dolgoznod! A fájl szerkezeteket ne írd át és ne módosítsd a funkciók nevét és paramétereit sem, mert ezzel ellehetetleníted a teszteket és a feladatok beadását.**
 
