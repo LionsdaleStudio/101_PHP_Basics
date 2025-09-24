@@ -17,9 +17,9 @@ A tesztek automatikusan ellenőrzik a megoldásokat.
 3. Nyisd meg a GitHub repository-t a Visual Studio Code-ban (például: `101_PHP_Basics`) és nyiss egy új terminált.  
 4. Futtasd a **composer install** parancsot.  
 5. A telepítés után megjelenik a `vendor` mappa a `tests`, `src` mappa mellett a gyökérkönyvtárban.  
-6. A teszteket a terminálban a következő paranccsal tudod futtatni:  
+6. A teszteket a terminálban a következő paranccsal tudod futtatni (windows):  
    ```bash
-   ./vendor/bin/phpunit
+   php ./vendor/bin/phpunit
 
 🧮 Matematikai feladatok
 
